@@ -3,7 +3,7 @@ resources:
     type: cluster
     flags:
       - deploy-nodecluster-basic
-    integration: dr-nc
+    integration: deepika-nc
 
   - name: deploy-nodecluster-basic-appfile
     type: file
