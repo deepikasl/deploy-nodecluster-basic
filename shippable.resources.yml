@@ -10,7 +10,7 @@ resources:
     flags:
       - deploy-nodecluster-basic
     pointer:
-      sourceName: https://s3.amazonaws.com/devops.recipes.nodecluster.packages/deploy-nodecluster-basic-appfile.tar.gz # points directly to publicly available file
+      sourceName: https://s3.us-east-2.amazonaws.com/devops.recipes.nodecluster.packages/deploy-nodecluster-basic-appfile.tar.gz # points directly to publicly available file
     seed:
       versionName: test # dummy starting point
 
